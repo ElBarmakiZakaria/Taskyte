@@ -1,4 +1,5 @@
 # Taskyte
-My JIRA clone application
 
-Hello Odin!
+
+# Odin-recipes
+odin-recipes project is a tutorial followed from the The Odin Project to create a recipes HTML Website
